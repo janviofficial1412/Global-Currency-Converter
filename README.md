@@ -1,5 +1,4 @@
 # Global-Currency-Converter
-# 💱 Currency Converter
 
 A simple and responsive **Currency Converter Web Application** built as my first project while learning web development.
 
@@ -7,7 +6,7 @@ This project was created primarily to strengthen my understanding of **JavaScrip
 
 ## 🚀 Live Demo
 
-`[Live Demo](YOUR_LIVE_DEMO_LINK)`
+`[Live Demo]:(https://janviofficial1412.github.io/Global-Currency-Converter/)`
 
 ## 📌 About the Project
 
