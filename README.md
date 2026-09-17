@@ -4,9 +4,10 @@ A simple and responsive **Currency Converter Web Application** built as my first
 
 This project was created primarily to strengthen my understanding of **JavaScript** by applying what I learned to a real, working application.
 
-## 🚀 Live Demo
+## ## 🚀 Live Demo
 
-`[Live Demo]:https://janviofficial1412.github.io/Global-Currency-Converter/`
+[**Try the Live Demo →**](https://janviofficial1412.github.io/Global-Currency-Converter/)
+
 
 ## 📌 About the Project
 
