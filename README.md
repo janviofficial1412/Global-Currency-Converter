@@ -6,7 +6,7 @@ This project was created primarily to strengthen my understanding of **JavaScrip
 
 ## 🚀 Live Demo
 
-`[Live Demo]:(https://janviofficial1412.github.io/Global-Currency-Converter/)`
+`[Live Demo]:https://janviofficial1412.github.io/Global-Currency-Converter/`
 
 ## 📌 About the Project
 
