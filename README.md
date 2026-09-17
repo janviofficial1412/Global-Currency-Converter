@@ -87,7 +87,7 @@ More projects and more complex applications will follow as I continue this journ
 **Janvi Desai**
 
 * GitHub: https://github.com/janviofficial1412
-* LinkedIn: https://www.linkedin.com/in/janvi-desai-2506a538/
+* LinkedIn: https://www.linkedin.com/in/janvi-desai-2506a5385/
 
 ---
 
